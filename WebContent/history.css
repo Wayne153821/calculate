@@ -1,0 +1,50 @@
+/* body {
+    background: url('https://tse1-mm.cn.bing.net/th/id/R-C.d88626df2a90b38667ed8b5ee9ceaf7b?rik=QY8Ch7%2bU5wSzSw&riu=http%3a%2f%2fup.bizhizu.com%2fpic%2fe5%2f4c%2f55%2fe54c552ec8ad044f12f77d6822bea1e5.jpg&ehk=MF3TBgRMH77f%2fMJrZ8YrjdUSzEEUJXSDNw6sEcD4q9I%3d&risl=&pid=ImgRaw&r=0')  100% 100% no-repeat;
+} */
+body{
+    background-color: #fff;
+    background-image: url('https://img.syt5.com/2020/0508/20200508033136592.jpg.1680.0.jpg');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    opacity: 1.5;
+}
+
+a{
+    margin-left: 1450px;
+    font-size: 25px;
+}
+
+.wrap{
+    margin-top: 100px;
+    display: flex;
+    /* border: 1px solid #ccc; */
+    justify-content: space-around;
+    color: red;
+}
+
+.table{
+    /* display: f; */
+    /* margin-right:  ; */
+}
+.table .table-title{
+    display: flex;
+    /* border: 1px solid #ccc; */
+}
+.title-text, .content-item{
+    width: 140px;
+    padding: 5px 15px;
+    border: 1px solid #000;
+    box-sizing: border-box;
+    color: red;
+}
+
+.table-content{
+    display: flex;
+    border: 1px solid #ccc;
+}
+
+.main{
+    height: 600px;
+    width: 1000px;
+}
+
